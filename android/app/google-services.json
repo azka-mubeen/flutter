@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770948491535",
+    "project_id": "tailor-9f29a",
+    "storage_bucket": "tailor-9f29a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770948491535:android:48d75aa5c7cf1fc78f367a",
+        "android_client_info": {
+          "package_name": "com.example.tailor_assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHPfECbaQYX-tPq6jwBkuMY96MRkGHyjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
